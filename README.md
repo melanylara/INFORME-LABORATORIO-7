@@ -81,7 +81,9 @@ En el capacitor se puede observar que la onda no varía mucho y además el valor
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
 
-En corriente alterna, el capacitor va aumentando su voltaje conforme pasa el tiempo, se puede obervar en las ondas, que empiezan a aumentar sus ciclos mientras mas aumenta la frecuencia.
+Para el caso del capacitor, el voltaje que aparece en los terminales del mismo está desfasado o corrido 90° hacia atrás con respecto a la corriente que lo atraviesa. Este desfase entre el voltaje y la corriente se debe a que el capacitor se opone a los cambios bruscos de voltaje entre sus terminales. 
+
+Una bobina en alterna es como si fuera una resistencia, en este caso el nombre concreto de la resistencia que opone se llama reactancia inductiva XL y va a depender de la frecuencia de la corriente alterna y de la inductancia de la propia bobina. 
 
 3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los 
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos? 
