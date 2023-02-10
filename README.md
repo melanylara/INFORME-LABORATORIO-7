@@ -136,6 +136,6 @@ https://youtu.be/XGlzszvXFyE
 
 * Electrónica Unicrom. (2016). Condensador en AC - Capacitor y la corriente alterna - Electrónica Unicrom. Obtenido de: http://unicrom.com/condensador-  http://unicrom.com/condensadoren-ac-capacitor-y-la-corriente-alterna  
 
-* Universidad de los Andes. (2015). Capacitancia e Inductancia. [online] Available at: Available at: http://wwwprof.uniandes.edu.co/~ant-  http://wwwprof.uniandes.edu.co/~antsala/cursos/FDC/Contenidos/07_Inductancia_y_ sala/cursos/FDC/Contenidos/07_Inductancia_y_Capacit Capacitancia.pdf [Accessed 2 ancia.pdf [Accessed 2 Jul. 2017]. 
+* Universidad de los Andes. (2015). Capacitancia e Inductancia. [online] Available at: Available at: http://wwwprof.uniandes.edu.co/~ant-  http://wwwprof.uniandes.edu.co/~antsala/cursos/FDC/Contenidos/07_Inductancia_y_ sala/cursos/FDC/Contenidos/07_Inductancia_y_Capacit Capacitancia.pdf [Accessed 2 ancia.pdf [Accessed 2 Jul. 2017].
 
  
