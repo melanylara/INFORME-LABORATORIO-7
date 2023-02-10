@@ -70,19 +70,27 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
 
+En el capacitor se puede observar que la onda no varía mucho y además el valor pico del voltaje es muy pequeño, siendo este de 6.94V. Se pudo observar que tambien la onda se demora cierto tiempo en cambiar su dirección
+ 
+ En la bobina se puede observar que cuando la frecuencia esta en cero la onda senusoidal es mucho mayor comparado con la de 10 Hz, ademas de que sus voltajes son mayores en este caso. Tambien actua mucho mas rapido el tiempo de carga para visualizar la onda en el osciloscopio.
  
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
 
- 
+En corriente alterna, el capacitor va aumentando su voltaje conforme pasa el tiempo, se puede obervar en las ondas, que empiezan a aumentar sus ciclos mientras mas aumenta la frecuencia.
 
 3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los 
-
 circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos? 
 
+Lo que ocurriria si esque la practica fuese analizada con dos bobinas o dos capacitores de valores distintos, se reflejarian tanto en el osciloscopio y en los multimetros las variaciones entre las medidas obtenias dando un posible caso de que no se distinga los valores arrojados.
  
 
 4.- ¿Qué son los valores eficaces de voltaje y corriente? 
+
+Se llama valor eficaz de una corriente alterna, al valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicarla sobre una misma resistencia.
+
+Se denomina valor eficaz al valor cuadrático medio de una magnitud eléctrica. El concepto de valor eficaz se utiliza especialmente para estudiar las formas de onda periódicas, a pesar de ser aplicable a todas las formas de onda, constantes o no.
+
 
  
  **Diagramas**
@@ -104,7 +112,6 @@ circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacit
    ![image](https://user-images.githubusercontent.com/76132461/112568672-d4ddd380-8db0-11eb-9ca1-ff0938a99a7d.png)
    
    ![image](https://user-images.githubusercontent.com/76134214/112589175-a8d14b00-8dce-11eb-9a18-cda978c18745.png)
-
 
 
 **5. VIDEO**
