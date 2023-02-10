@@ -11,7 +11,7 @@ INTEGRANTES:
 
   **Objetivo General:**
   
-  * Analizar los transformadores AC y DC en circuitos mediante un osciloscopio y la ayuda de simuladores.
+  * Reconocer e identificar bobinas y capacitores, mediante el uso de softwares de simulación como Proteus y DCACLab, para observar cómo se comportan los mismos, tanto en circuitos AC como en  DC 
 
   **Objetivos Específicos:**
 * Verificar el comportamiento de la bobina y el capacitor en circuitos DC. 
@@ -62,8 +62,9 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas. 
 
+![image](https://user-images.githubusercontent.com/105020538/217997013-f7f25555-8f54-4d76-a254-4ba6703500d3.png)
 
-
+![image](https://user-images.githubusercontent.com/105020538/217997058-f080f14c-31f7-4e8d-8861-514a591c847f.png)
 
 
 **PREGUNTAS** 
@@ -119,9 +120,12 @@ Se denomina valor eficaz al valor cuadrático medio de una magnitud eléctrica. 
 
 **6. CONCLUSIONES** 
 
-* Una bobina ideal en corriente continua se comporta como un cortocircuito, ya que, al ser la corriente constante, no habría autoinducción de ninguna fem. En corriente AC ofrece una resistencia al paso de la corriente eléctrica que recibe el nombre de ca que recibe el nombre de reactancia inductiva. 
+* La variación de la voltaje en el secundario depende esencialmente de dos variables, de la corriente absorbida por la carga y de su factor de potencia. La regulación de voltaje de un transformador depende tanto de la magnitud de estas impedancias como del ángulo fase de la corriente que circula por el transformador.
 
-* La presencia de condensadores y bobinas en un circuito de corriente alterna desfasa la intensidad de corriente respecto a la fem, además de suponer una variación de la resistencia efectiva del circuito, dependiente de la frecuencia de la corriente. 
+* Al implementar el simulador online, observamos que los valores tanto calculados por el sistema y por nosotros no arrojaban un error más allá de 0.10%. Además para la obtención de valores picos, aplicamos el osciloscopio para visualizar la onda sinusoidal.
+
+
+
 
 **7. BIBLIOGRAFÍA**
 
