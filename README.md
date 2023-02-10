@@ -62,10 +62,13 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 1.- Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas. 
 
+**INDUCTOR**
+
 ![image](https://user-images.githubusercontent.com/105020538/217997013-f7f25555-8f54-4d76-a254-4ba6703500d3.png)
 
-![image](https://user-images.githubusercontent.com/105020538/217997058-f080f14c-31f7-4e8d-8861-514a591c847f.png)
+**CAPACITOR**
 
+![image](https://user-images.githubusercontent.com/105020538/217997058-f080f14c-31f7-4e8d-8861-514a591c847f.png)
 
 **PREGUNTAS** 
 
